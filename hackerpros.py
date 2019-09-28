@@ -1005,7 +1005,6 @@ def pisher():
 
 
 menu = HACKERPROlogo + """
-
    {1}--Get all websites
    {2}--Get joomla websites
    {3}--Get wordpress websites
