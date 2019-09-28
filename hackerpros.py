@@ -108,7 +108,7 @@ HORASlogo = """\033[0m
 
 \033[91m"""
 def menu():
-    print ( Nicoleus Sitoruslogo + """\033[1m
+    print ( Nicoleuslogo + """\033[1m
  [!] This Tool Must Run As ROOT... HORAS... [!] https://github.com/nicoleus/hackerproc
 \033[0m
    {1}--Information Gathering
