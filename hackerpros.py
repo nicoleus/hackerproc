@@ -1003,8 +1003,8 @@ def pisher():
     clearScr()
     os.system("python pisher.py")
 
-
-menu = HACKERPROlogo + """
+def webhack():
+    print(HORASlogo)
    {1}--Get all websites
    {2}--Get joomla websites
    {3}--Get wordpress websites
