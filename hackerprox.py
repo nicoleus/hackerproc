@@ -8,38 +8,6 @@
 # | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
 # |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
 #          Hacking Tools by-Nicoleus Sitorus
-import urllib2 ,sys ,re
-import os
-import ssl
-import time
-
-def cls():
-    linux = 'clear'
-    windows = 'cls'
-    os.system([linux,windows][os.name == 'nt'])
-
-cls()
-
-os.system(['','color D'][os.name == 'nt'])
-
-print '''
-                SELAMAT DATANG
-                     DI
-                SAMOSIR CYBER TEAM
-           CODE: BY Nicoleus F Sitorus
-     HORAS.. WAKTUNYA BATAK BERAKSI!!!!
-  
- _____              _                 _
-|  ___|_ _  ___ ___| |__   ___   ___ | | __
-| |_ / _` |/ __/ _ \ '_ \ / _ \ / _ \| |/ /
-|  _| (_| | (_|  __/ |_) | (_) | (_) |   <
-|_|  \__,_|\___\___|_.__/ \___/ \___/|_|\_\                                '''
-  
- _____              _                 _
-|  ___|_ _  ___ ___| |__   ___   ___ | | __
-| |_ / _` |/ __/ _ \ '_ \ / _ \ / _ \| |/ /
-|  _| (_| | (_|  __/ |_) | (_) | (_) |   <
-|_|  \__,_|\___\___|_.__/ \___/ \___/|_|\_\                                '''
 
 import sys
 import argparse
