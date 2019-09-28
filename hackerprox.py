@@ -100,12 +100,12 @@ HACKERPROlogo = """\033[0m
  | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
  |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
       
-            ~Tools For Hacking by by-Technical Dada
+            ~Tools For Hacking by by-Nicoleus F Sitorus
 
 \033[91m"""
 def menu():
     print (HACKERPROlogo + """\033[1m
- [!] This Tool Must Run As ROOT [!] https://github.com/technicaldada/hackerpro
+ [!] This Tool Must Run As ROOT [!] https://github.com/nicoleus/hackerprox
 \033[0m
    {1}--Information Gathering
    {2}--Password Attacks
@@ -118,7 +118,7 @@ def menu():
    {0}--Install The HACKERPRO
    {99}-Exit
  """)
-    choice = raw_input("hackerpro~# ")
+    choice = raw_input("nicoleus~# ")
     os.system('clear')
     if choice == "1":
         info()
