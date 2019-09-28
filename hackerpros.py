@@ -1017,8 +1017,7 @@ def webhack():
     print("   {10}-ports Scan (common ports) ")
     print("   {11}-Get server Info ")
     print("   {12}-Bypass Cloudflare ")
-
-   {99}-Back To Main Menu 
+    print("   {99}-Back To The Main Menu \n\n")
 """
 
 
@@ -1028,7 +1027,6 @@ def unique(seq):
     """
     seen = set()
     return [seen.add(x) or x for x in seq if x not in seen]
-
 
 def clearScr():
     """
