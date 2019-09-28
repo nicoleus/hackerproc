@@ -921,7 +921,7 @@ def exp():
     print("   {8}--Bruteforce the Android Passcode given the hash and salt")
     print("   {9}--Joomla SQL injection Scanner \n ")
     print("   {99}-Go Back To Main Menu \n\n")
-    choice5 = raw_input("hackerpro~# ")
+    choice5 = raw_input("nico~# ")
     if choice5 == "2":
         clearScr()
         sqlmap()
@@ -1005,18 +1005,18 @@ def pisher():
 
 def webhack():
     print(HORASlogo)
-   {1}--Get all websites
-   {2}--Get joomla websites
-   {3}--Get wordpress websites
-   {4}--Control Panel Finder
-   {5}--Zip Files Finder
-   {6}--Upload File Finder
-   {7}--Get server users
-   {8}--SQli Scanner
-   {9}--Ports Scan (range of ports)
-   {10}-ports Scan (common ports)
-   {11}-Get server Info
-   {12}-Bypass Cloudflare
+    print("  {1}--Get all websites
+    print("  {2}--Get joomla websites
+    print("  {3}--Get wordpress websites
+    print("  {4}--Control Panel Finder
+    print("  {5}--Zip Files Finder
+    print("  {6}--Upload File Finder
+    print("  {7}--Get server users
+    print("  {8}--SQli Scanner
+    print("  {9}--Ports Scan (range of ports)
+    print("  {10}-ports Scan (common ports)
+    print("  {11}-Get server Info
+    print("  {12}-Bypass Cloudflare
 
    {99}-Back To Main Menu HORAS
 """
