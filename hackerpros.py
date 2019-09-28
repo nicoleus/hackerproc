@@ -1004,7 +1004,7 @@ def pisher():
     os.system("python pisher.py")
 
 
-menuu = HACKERPROlogo + """
+menu = HACKERPROlogo + """
 
    {1}--Get all websites
    {2}--Get joomla websites
