@@ -1005,18 +1005,18 @@ def pisher():
 
 def webhack():
     print(HORASlogo)
-    print("   {1}--Get all websites
-    print("   {2}--Get joomla websites
-    print("   {3}--Get wordpress websites
-    print("   {4}--Control Panel Finder
-    print("   {5}--Zip Files Finder
-    print("   {6}--Upload File Finder
-    print("   {7}--Get server users
-    print("   {8}--SQli Scanner
-    print("   {9}--Ports Scan (range of ports)
-    print("   {10}-ports Scan (common ports)
-    print("   {11}-Get server Info
-    print("   {12}-Bypass Cloudflare
+    print("   {1}--Get all websites ")
+    print("   {2}--Get joomla websites ")
+    print("   {3}--Get wordpress websites ")
+    print("   {4}--Control Panel Finder ")
+    print("   {5}--Zip Files Finder ")
+    print("   {6}--Upload File Finder ")
+    print("   {7}--Get server users ")
+    print("   {8}--SQli Scanner ")
+    print("   {9}--Ports Scan (range of ports) ")
+    print("   {10}-ports Scan (common ports) ")
+    print("   {11}-Get server Info ")
+    print("   {12}-Bypass Cloudflare ")
 
    {99}-Back To Main Menu HORAS
 """
