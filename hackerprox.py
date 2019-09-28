@@ -1,4 +1,16 @@
 #!/usr/bin/env python2.7
+print '''
+                SELAMAT DATANG
+                     DI
+                SAMOSIR CYBER TEAM
+           CODE: BY Nicoleus F Sitorus
+     HORAS.. WAKTUNYA BATAK BERAKSI!!!!
+  
+ _____              _                 _
+|  ___|_ _  ___ ___| |__   ___   ___ | | __
+| |_ / _` |/ __/ _ \ '_ \ / _ \ / _ \| |/ /
+|  _| (_| | (_|  __/ |_) | (_) | (_) |   <
+|_|  \__,_|\___\___|_.__/ \___/ \___/|_|\_\                                '''
 #
 # 
 #  _    _            _               _____           
